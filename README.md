@@ -1,0 +1,1 @@
+Error generating README: 'NoneType' object is not subscriptable
